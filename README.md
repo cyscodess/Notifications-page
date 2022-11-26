@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-[notifications-page.png]
+![Screenshot](/notifications-page.png "Notifications page")
 
 ### Links
 
